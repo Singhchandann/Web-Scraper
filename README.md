@@ -21,7 +21,7 @@ This is a simple web scraper that allows you to search for information on a give
 
 1. Clone the repository:
 ```
-git clone https://github.com/scrape-any-sites/web-scraper.git
+git clone https://github.com/Singhchandann/Web-Scraper.git
 ```
 2. Install the required packages:
 ```
